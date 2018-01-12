@@ -1,0 +1,30 @@
+{
+  "name": "md3_rest_node_16",
+  "version": "1.0.0",
+  "description": "Template code for the JSON REST API lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerendWeij/md3_rest_node_16.git"
+  },
+  "keywords": [
+    "REST",
+    "JSON",
+    "API",
+    "NODE"
+  ],
+  "author": "Berend Weij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerendWeij/md3_rest_node_16/issues"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "method-override": "latest"
+  },
+  "homepage": "https://github.com/BerendWeij/md3_rest_node_16#readme"
+}
