@@ -4,7 +4,8 @@
   "description": "Template code for the JSON REST API lessons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,8 @@
   "dependencies": {
     "body-parser": "latest",
     "express": "latest",
-    "method-override": "latest"
+    "method-override": "latest",
+    "mongoose": "5.0.2"
   },
   "homepage": "https://github.com/BerendWeij/md3_rest_node_16#readme"
 }
